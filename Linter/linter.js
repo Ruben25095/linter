@@ -15,6 +15,7 @@ fs.readFile('database.txt', 'utf8', (err, data) => {
  
   console.log(top);
   console.log(cadena_split.length);
+  //Funcion para validar si el string de la matriz son pueros numeros
   function validarNum(query){
 
     let k=0;
@@ -31,6 +32,7 @@ fs.readFile('database.txt', 'utf8', (err, data) => {
          return true;
 
   }
+  //validar que el string contenga puras letras
   function validarLetras(query){
     let j=0;
         var query_split =query.split("");
@@ -44,6 +46,7 @@ fs.readFile('database.txt', 'utf8', (err, data) => {
    
        return true;
   }
+  //esta funcion valida que el correo solo contenga un arroba
   function validarCorreo(query){
     let j=0;
        numerodearrobas=0;
