@@ -1,0 +1,13 @@
+Nick,Matricula,Facultad,Carrera,Promedio,Edad,Correo
+Ruben,20760221,ing,sistemas,80,28,ruben@ite.edu.mx
+Jose,20760223,ing,Informatica,83,26,Jose@ite.edu.mx
+Ricardo,15452,Ing,Electronica,94,25,Ricardo@ite.edu.mx
+Saul,2083454,Ing,Gestion,100,26,Roberto@ite.edu.mx
+Ivan,20758214,Ing,Electronica,95,29,Ivan@ite.edu.mx
+Manuel,2071578,ing,Electronica,85,30,Manuel♠ite.edu.mx
+Juan,2081548,ciencias,Fisica,80,25.,juan@ite.edu.mx
+Raul,2074563,Ing,Mecatronica,80.,27,Raul@ite.edu.mx
+Luis,2078013,ing,Industrial1,90,26,Luis@ite.edu.mx
+Ramon,209456,ing2,Gestion,91,25,Ramon@ite.edu.mx
+Omar,21045A,ing,Sistemas,80,24,Omar@ite.edu.mx
+Maria5,21154,ing,Sistemas,84,23,Maria@ite.edu.mx

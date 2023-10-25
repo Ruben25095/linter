@@ -1,0 +1,7 @@
+Renglon 6 : Manuel,2071578,ing,Electronica,85,30,Manuel♠ite.edu.mx
+Renglon 7 : Juan,2081548,ciencias,Fisica,80,25.,juan@ite.edu.mx
+Renglon 8 : Raul,2074563,Ing,Mecatronica,80.,27,Raul@ite.edu.mx
+Renglon 9 : Luis,2078013,ing,Industrial1,90,26,Luis@ite.edu.mx
+Renglon 10 : Ramon,209456,ing2,Gestion,91,25,Ramon@ite.edu.mx
+Renglon 11 : Omar,21045A,ing,Sistemas,80,24,Omar@ite.edu.mx
+Renglon 12 : Maria5,21154,ing,Sistemas,84,23,Maria@ite.edu.mx
